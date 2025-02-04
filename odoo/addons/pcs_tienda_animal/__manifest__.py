@@ -2,7 +2,7 @@
 {
     'name': "Tienda Animal",
 
-    'summary': "Short (1 phrase/line) summary of the module's purpose",
+    'summary': "Modulo de Gestion de una tienda animal",
 
     'description': """
 Long description of module's purpose
